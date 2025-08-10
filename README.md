@@ -58,6 +58,7 @@ We use three datasets for training and evaluation, each with different character
 
 Each dataset is organized into folders representing the 5 DR classes:
 
+'''
 dataset/
 └── datasetname/
     ├── no_dr/          # Images with no diabetic retinopathy
@@ -65,5 +66,4 @@ dataset/
     ├── moderate/       # Images with moderate diabetic retinopathy
     ├── severe/         # Images with severe diabetic retinopathy
     └── proliferated/   # Images with proliferated diabetic retinopathy
-
-
+'''
