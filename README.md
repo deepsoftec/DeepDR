@@ -4,10 +4,11 @@ Diabetic Retinopathy (DR) is a diabetes complication that affects the eyes and c
 
 <div style="display: flex; justify-content: space-between;">
 
-  <img src="images/1.png" alt="Class No DR" width="23%" />
-  <img src="images/2.png" alt="Class Mild" width="23%" />
-  <img src="images/3.png" alt="Class Moderate" width="23%" />
-  <img src="images/4.png" alt="Class Severe" width="23%" />
+  <img src="images/1.png" alt="Class No DR" width="18%" />
+  <img src="images/2.png" alt="Class Mild" width="18%" />
+  <img src="images/3.png" alt="Class Moderate" width="18%" />
+  <img src="images/4.png" alt="Class Severe" width="18%" />
+  <img src="images/5.png" alt="Prolofirated" width="18%" />
 
 </div>
 
